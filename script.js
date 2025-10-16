@@ -22,5 +22,3 @@ socialLinks.forEach(link => {
     }, 600);
   });
 });
-
-// Opção de abrir links em nova aba já inclusa via target="_blank" no HTML
